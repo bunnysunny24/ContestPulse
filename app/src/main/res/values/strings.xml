@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContestPulse</string>
+    <string name="widget_name">Contest Bento Grid (4x2)</string>
+    <string name="widget_description">Modular Bento Box showing live coding contests with hero countdown</string>
+    <string name="widget_hero_name">Contest Bento Hero (2x2)</string>
+    <string name="widget_hero_description">Compact square bento tile with giant live countdown</string>
+    <string name="channel_reminders">Contest Reminders</string>
+    <string name="channel_alarms">Contest Alarms</string>
+    <string name="alarm_dismiss">Dismiss</string>
+    <string name="alarm_open_contest">Open Contest</string>
+</resources>
